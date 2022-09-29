@@ -14,3 +14,4 @@
 
  ##
  
+ ![Snake animation](https://github.com/KazekageLaura/KazekageLaura/blob/output/github-contribution-grid-snake.svg)
