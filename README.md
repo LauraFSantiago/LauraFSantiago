@@ -1,4 +1,4 @@
-### Oii, sou Laura Santiago!
+### Hii, i'm Laura Santiago!
 
 - 🔭 I'm currently looking for an internship;
 - 🌱 I'm currently learning about frameworks and back end languages;
