@@ -1,4 +1,10 @@
 ### Oii, sou Laura Santiago!
+
+- 🔭 I'm currently looking for an internship;
+- 🌱 I'm currently learning about frameworks and back end languages;
+- 👯 I'm wanting to collaborate in development companies;
+- 📫 How to reach me: lauraferreira1512@gmail.com
+
 <div align="center">
   <a href="https://github.com/LauraFSantiago">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LauraFSantiago&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
