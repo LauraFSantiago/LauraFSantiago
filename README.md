@@ -1,9 +1,6 @@
 ### Hii, i'm Laura Santiago!
 
-- 🔭 I'm currently looking for an internship;
-- 🌱 I'm currently learning about frameworks and back end languages;
-- 👯 I'm wanting to collaborate in development companies;
-- 📫 How to reach me: lauraferreira1512@gmail.com
+<p align="left">As an Information Systems student, I am eager to deepen and develop my knowledge in system development,<br> building upon the foundation I’ve already established, to become a proficient professional in the field.
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LauraFSantiago&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
 [![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LauraFSantiago&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/mari4souza/github-readme-stats)
